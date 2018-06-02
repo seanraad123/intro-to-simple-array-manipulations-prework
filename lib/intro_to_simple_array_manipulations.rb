@@ -35,5 +35,3 @@ def using_insert(array, new_element)
   array.insert(3, new_element)
 end
 
-array = ["hello", "sean", "michael"]
-print using_insert(array, "conrad")
