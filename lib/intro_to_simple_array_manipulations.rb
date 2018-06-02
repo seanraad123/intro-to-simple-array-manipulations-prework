@@ -36,4 +36,4 @@ def using_insert(array, new_element)
 end
 
 array ["hello", "sean", "michael"]
-print using_insert()
+print using_insert(array, "conrad")
